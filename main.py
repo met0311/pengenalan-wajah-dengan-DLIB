@@ -10,11 +10,11 @@ import asyncio
 import pickle
 import requests
 
-TELEGRAM_TOKEN = '8065148553:AAEUcFM5nGLw2CQ5AXlkDGzeS5lZjQxXHoA'
-TELEGRAM_CHAT_ID = '970886930'
-ESP8266_IP = "192.168.220.223"
-KNOWN_FACES_DIR = 'known_faces'
-TEST_DATASET_DIR = 'test_dataset'
+TELEGRAM_TOKEN = 'token telegram'
+TELEGRAM_CHAT_ID = 'chat id'
+ESP8266_IP = "id ESP8266"
+KNOWN_FACES_DIR = 'dataset'
+TEST_DATASET_DIR = 'test dataset'
 KNOWN_ENCODINGS_FILE = 'known_face_encodings.pkl'
 TOLERANCE = 0.45
 
